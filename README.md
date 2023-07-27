@@ -21,6 +21,8 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+默认入口 http://localhost:5174 入口二为：http://localhost:5174/other.html仅有图片过滤，拖动功能，排序功能
+
 ## Project Setup
 
 ```sh

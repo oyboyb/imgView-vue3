@@ -168,12 +168,17 @@
   }
   .wrap {
     flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid #aae;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 8px;
   }
   
   .item {
     width: 180px;
     height: 160px;
-    margin: 0 8px;
+    margin: 8px;
   }
   
   img {
@@ -183,6 +188,7 @@
   }
   
   p {
+    margin:5px 0 5px 0;
     font-size: 12px;
     color: #000;
   }
